@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DriverLicenseSimulatorArduino/DriverLicenseSimulatorArduino.vcxproj" Id="579f3b86-8c72-4c78-83e2-8a8a9396b82a" />
+</Solution>
